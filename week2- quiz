@@ -1,0 +1,129 @@
+1.Semantics is
+ans.the practice of giving content on the page meaning and structure by using proper element
+
+
+2.Semantic code describes the ___ of content on a page, regardless of the style or appearance of that content.
+ans.value
+
+
+3.Using the header and footer tags can improve the search engine optimization for your page.
+ans.true
+
+
+4.Every well-formed HTML document should include:
+ans.doctype, header, body
+
+
+5.What is wrong with the following code?
+ans.the code is symantically and syntactically correct
+
+
+6.Block-level elements begin on a new line
+ans.true
+
+
+7.Inline-level elements begin on a new line
+ans.false
+
+
+8.A <div> block is an inline-level element
+ans.false
+
+
+9.A <span> block is an inline-level element
+ans.true
+
+
+10.Which tag represents a line break (new line)?
+ans.<br>
+
+
+11.Which of the following is the correct way to comment on HTML5?
+ans.<!...html>
+
+
+12.Which of the following are valid tags for HTML5 headings?
+ans.<h5>  </h5>
+
+
+13.All of the content you wish to appear on the screen should be in which tag?
+ans.<body>
+
+
+14.Which tag is used to create a link?
+ans.<a>
+
+
+15.Which of the following code is the correct way to link to an email address?
+ans.<a href= “mailto:shayhowe@awesome.com?subject=Hi&body=How are you”>Email</a><br>
+
+
+16.Which HTML element is used to define list items?
+ans.<li>
+
+
+17.The start attribute defines the number from which an unordered list should start.
+ans.false
+
+
+18.The reverse attribute allows a list to appear in a reverse order in an unordered list.
+ans.false
+
+
+19.Which attribute can be used to change its number within an ordered list?
+ans.value
+
+
+20.Which code properly creates the nested list structure shown here?
+ans.  <ul>		
+    <li>Vegetables</li>	
+    <li>Fruit
+       <ol>				
+          <li>Blueberries</li>
+	  <li>Bananas</li>
+       </ol>
+    </li>
+</ul>
+
+
+21.The <ul> and <ol> elements may contain only <li> elements.
+ans. true
+
+
+22.The tags to create definitions are:
+ans.<dl>, <dd>, <dt>
+
+
+23.What should target = "_blank" do when included in a link tag?
+ans.open the link in a tab called "_blank"
+
+
+24.In order for the <img> element to work, a src attribute and value must be included to specify the source of the image.
+ans.true
+
+
+25.The alt text of an image should describe the appearance of an image
+ans.false
+
+
+26.When should an image have null (empty) alt text (alt - “”)
+ans.when the image is decorative
+
+
+27.Which of the following is the best way to use a Font Awesome icon to link to Twitter?
+ans.<a><i class="fa fa-twitter"></i></a>
+
+
+28.What are the elements to help organize the data and structure of a table?
+ans.<caption>, <thead>, <tbody>, <tfoot>
+
+
+29.What does <thead> stand for?
+ans.table header
+
+
+30.Which code will properly insert headings along each row?
+ans.  <table>
+  <tr><th>Name</th><th>Age</th><th>Team</th></tr>
+  <tr><td>Colleen</td><td>26</td><td>Browns</td></tr>
+</table>

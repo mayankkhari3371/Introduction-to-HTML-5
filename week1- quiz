@@ -1,0 +1,89 @@
+1.What does HTML stand for?
+ans.Hypertext Markup Language
+
+2.HTML5 tags have the same semantic meaning, regardless of the browser being used.
+ans.true
+
+3.FTP stands for
+ans.File Transfer Protocol
+
+4.HTTP stands for
+ans.Hypertext Transfer Protocol
+
+5.Which of the following is part of a URL?
+ans.domain(or host)
+
+6.The Internet is a type of
+ans.Wide Area Network
+
+7.What is the Request/Response Cycle?
+ans.The process that happens when a client request a page and a server responds with the appropriate file
+
+8.A ________________________ is a computer that is in charge of handling resource requests from multiple computers.
+ans.Server
+
+9.Which of the following is an example of a top-level domain?
+ans..com
+
+10.The Domain Name Service looks up the domain and returns the
+ans.ip address
+
+11.Which organization is responsible for assigning top-level domain names?
+ans.Internet Corporation for Assigned Names and Numbers(ICANN)
+
+12.A single web page may require several iterations of the Request-Response Cycle.
+ans.true
+
+13.What does LAN stand for?
+ans.Local Area Network
+
+14.What does WAN stand for?
+ans.Wide Area Network
+
+15.Which is the correct file extension for a web page?
+ans..html
+
+16.HTML uses _________ to annotate documents. This is a way of marking up the content to identify specific HTML elements.
+ans.tags
+
+17.The original developers of HTML were opposed to the addition of tags for graphical images.
+ans.false
+
+18.The first graphical browser was.... (please use one word answer)
+ans.Mosiac
+
+19.What are proprietary tags?
+ans.Tag that works only on certain browsers
+
+20.Which of these tags breaks the tenet of the separation of content and layout?
+ans.br
+
+21.Which of the following are browsers?
+ans.Chrome,Firefox,Safari
+
+22.W3C stands for
+ans.World Wide Web Consortium
+
+23.A basic functionality of browsers is to translate HTML documents into viewable webpages.
+ans.true
+
+24.Which version of HTML included browser specific features?
+ans.HTML 2.0
+
+25.The predecessor of the internet was
+ans.Arpanet
+
+26.URL stands for
+ans.Uniform Resource Locator
+
+27.CSS stands for
+ans.Cascading Style Sheets
+
+28.CSS1 was introduced for public use in
+ans.1996
+
+29.What editor are you using?
+ans.notepad++
+
+30.What browser(s) are you using?
+ans.chrome
